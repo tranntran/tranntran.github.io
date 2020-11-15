@@ -1,22 +1,8 @@
 theme: jekyll-theme-minimal
-navbar:
-  title: "binomialDP"
-  left:
-    - icon: fa-home fa-lg
-      href: index.html
-    - text: "Get Started"
-      menu:
-        - text: "Vignette"
-          href: articles/binomialDP.html
-        - text: "PULSE Example"
-          href: articles/PULSE.html
-    - text: "References"
-      href: reference/index.html
-    - text: "News"
-      href: news/index.html
-
-  right:
-   - icon: fa-github
-     href: https://github.com/ttran2401/binomialDP
-   - icon: fa-google
-     href: google94f378e740b19df0.html
+title: Tran N Tran
+description: Personal website
+navigation:
+  - title: Home
+    url: /
+  - title: Teaching
+    url: setup
